@@ -1,0 +1,7 @@
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\bin\Debug\PostOffice1.exe.config
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\bin\Debug\PostOffice1.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\bin\Debug\PostOffice1.pdb
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\obj\Debug\PostOffice1.csprojAssemblyReference.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\obj\Debug\PostOffice1.csproj.CoreCompileInputs.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\obj\Debug\PostOffice1.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\PostOffice\PostOffice1\PostOffice1\obj\Debug\PostOffice1.pdb
