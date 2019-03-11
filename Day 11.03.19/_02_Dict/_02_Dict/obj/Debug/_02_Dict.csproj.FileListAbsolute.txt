@@ -1,0 +1,7 @@
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\bin\Debug\_02_Dict.exe.config
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\bin\Debug\_02_Dict.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\bin\Debug\_02_Dict.pdb
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\obj\Debug\_02_Dict.csprojAssemblyReference.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\obj\Debug\_02_Dict.csproj.CoreCompileInputs.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\obj\Debug\_02_Dict.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_02_Dict\_02_Dict\obj\Debug\_02_Dict.pdb

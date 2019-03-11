@@ -1,0 +1,7 @@
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\bin\Debug\_01_Stack.exe.config
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\bin\Debug\_01_Stack.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\bin\Debug\_01_Stack.pdb
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\obj\Debug\_01_Stack.csprojAssemblyReference.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\obj\Debug\_01_Stack.csproj.CoreCompileInputs.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\obj\Debug\_01_Stack.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Stack\_01_Stack\obj\Debug\_01_Stack.pdb

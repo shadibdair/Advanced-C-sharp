@@ -1,0 +1,7 @@
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\obj\Debug\_03_Dictionary of Objects.csproj.CoreCompileInputs.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\obj\Debug\_03_Dictionary of Objects.csprojAssemblyReference.cache
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\bin\Debug\_01_Dictionary of Objects.exe.config
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\bin\Debug\_01_Dictionary of Objects.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\bin\Debug\_01_Dictionary of Objects.pdb
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\obj\Debug\_01_Dictionary of Objects.exe
+C:\Users\hanan\Desktop\x\bb\הנדסאי תוכנה   שנה-ב\סמסטר ב\advanced C sharp\Day 11.03.19\_01_Dictionary of Objects\_01_Dictionary of Objects\obj\Debug\_01_Dictionary of Objects.pdb
