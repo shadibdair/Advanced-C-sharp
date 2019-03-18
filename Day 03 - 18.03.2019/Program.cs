@@ -76,8 +76,6 @@ namespace ConsoleApp43
             StudentList.ForEach(s => Console.WriteLine(s.ToString()));
 
             // --------------------------------------------------------------------------
-
-            // var vs dynamic ??
         }
     }
 }
