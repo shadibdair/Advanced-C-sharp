@@ -52,7 +52,7 @@ class Example
 ```
  * output
 ```
- The example displays output like the following:
+
        Task=1, obj=beta, Thread=3
        t1 has been launched. (Main Thread=1)
        Task=2, obj=alpha, Thread=4
