@@ -69,7 +69,7 @@ ThreadProc: 9
 Main thread: ThreadProc.Join has returned.  Press Enter to end program.
 ```
 
-* output # (When Thread.sleep(10000))
+* output (When Thread.sleep(10000))
 ```
 Main thread: Start a second thread.
 Main thread: Do some work.
