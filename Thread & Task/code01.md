@@ -1,4 +1,4 @@
-
+```
 using System;
 using System.Diagnostics;
 using System.Threading;
@@ -41,6 +41,8 @@ public class Example
         sw.Stop();
     }
 }
+```
+```
 // The example displays output like the following:
 //       Thread 3: Running, Priority Normal
 //       Thread 3: Elapsed 0.00 seconds
@@ -53,3 +55,4 @@ public class Example
 //       Thread 3: Elapsed 3.09 seconds
 //       Thread 3: Elapsed 3.61 seconds
 //       Thread 3: Elapsed 4.12 seconds
+```
